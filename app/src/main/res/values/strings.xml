@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CekKalori</string>
+    <string name="bmr_intro" translatable="false">Kalori adalah satuan unit pengukuran untuk menyatakan jumlah energi dalam makanan. Jadi, setiap makanan mengandung kalori yang berbeda-beda. Lantas, bagaimana cara menghitung kebutuhan kalori setiap hari?</string>
+    <string name="berat_badan" translatable="false">Berat Badan</string>
+    <string name="tinggi_badan" translatable="false">Tinggi Badan</string>
+    <string name="aktifitas_fisik" translatable="false">Aktivitas Fisik</string>
+    <string name="usia" translatable="false">Usia</string>
+    <string name="pria"  translatable="false">pria</string>
+    <string name="wanita"  translatable="false">wanita</string>
+    <string name="gender" translatable="false">Jenis Kelamin</string>
+    <string name="hitung" translatable="false">Hitung</string>
+    <string name="error_empty" translatable="false">Harap isi semua kolom</string>
+    <string name="tentang_aplikasi" translatable="false">Tentang Aplikasi</string>
+    <string name="copyright" translatable="false">Hitung BMR merupakan sebuah aplikasi Andorid untuk menghitung Basal Metabolic Rate sehingga seseorang dapat mengtahui apakah kalori yang masuk sudah cukup.\n\Aplikasi ini dibuat untuk Assesmment01 MataKuliah Mobpro 1.\n\nCopyright 2024 Makiyah Azahra.\nAll rights reserved</string>
+    <string name="bmr_result" translatable="false">Hasil perhitungan BMR</string>
+    <string name="kembali" translatable="false">Kembali</string>
+    <string name="bagikan" translatable="false">Bagikan</string>
+    <string name="bmr_template" translatable="false">BMR Anda adalah: %1$.2f kalori per hari</string>
+
+
+
+</resources>
